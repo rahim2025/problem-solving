@@ -29,3 +29,5 @@
 <ul>
 	<li><code>0 &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+Time complexity = O(logN)
